@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82524CD0-78D8-488D-B8A8-7C76ACF2F481</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4C4D1692AC0B8F605FED66CBD0E109151D67F75</key>
+		<string>https://git.oschina.net/lucyH/Pong.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HTest_Plist/HTest_Plist.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4C4D1692AC0B8F605FED66CBD0E109151D67F75</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/lucyH/Pong.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4C4D1692AC0B8F605FED66CBD0E109151D67F75</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4C4D1692AC0B8F605FED66CBD0E109151D67F75</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E7%BB%83%E4%B9%A0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
